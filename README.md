@@ -80,7 +80,11 @@ Step Definition classes
 JUnit Test Runner
 Cucumber execution
 Maven project configuration
+
+
 Project Structure
+
+
 ECommerce-Automation/
 │
 ├── src
