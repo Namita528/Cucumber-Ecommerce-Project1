@@ -1,4 +1,4 @@
-E-Commerce Web Application Functional Testing using Selenium, TestNG & Cucumber
+
 Overview
 
 This repository contains a Selenium automation framework developed as a Phase-End Project for performing functional testing on a Java-based e-commerce web application. The project demonstrates the implementation of UI test automation using Selenium WebDriver, TestNG, and Cucumber within a Maven project, following industry-standard automation practices.
